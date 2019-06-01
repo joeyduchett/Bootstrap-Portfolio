@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar {
+    min-height: 8vh;
+    background-color: whitesmoke;
+    align-content: flex-end;
+    margin: 10px;
+}
+
+h3 {
+    background-color: aquamarine;
+}
+.logo {
+    background-color: aquamarine;
+    justify-content: left;
+    align-items: left;
+}
+.content-header {
+    margin: 0 200px 0 200px;
+    text-align: left;
+    background-color: aliceblue;
+    border: solid 1px;
+}
+
+.aboutme {
+    text-align: left;
+    justify-content: left;
+    align-content: left;
+    margin: 5px;
+}
+
+.home {
+    justify-content: center;
+    align-items: center;
+}
+.port {
+    justify-content: center;
+    align-items: center;
+}
+.contact {
+    justify-content: center;
+    align-items: center;
+}
+
+.mepic {
+    max-width:20%;
+    height:auto;
+    }
